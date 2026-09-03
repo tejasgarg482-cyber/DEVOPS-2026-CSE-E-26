@@ -17,6 +17,7 @@ import Notifications from './pages/Notifications';
 import Admin from './pages/Admin';
 import Terms from './pages/Terms';
 
+
 function App() {
   return (
     <BrowserRouter>
