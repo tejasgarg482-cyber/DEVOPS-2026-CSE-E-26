@@ -13,3 +13,4 @@ const createNotification = async (userId, type, message, relatedId = null) => {
 };
 
 module.exports = { createNotification };
+ // crea5ting user notifcation for acknowlegement 
